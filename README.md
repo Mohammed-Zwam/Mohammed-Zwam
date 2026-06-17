@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%26+Spring+Boot+Expert;MERN+Stack+Specialist;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%26+Spring+Boot+Expert;MERN+Stack+Specialist;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
   <div style="margin: 20px 0;">
     <a href="https://linkedin.com/in/mohammed-ashraf-2992512a7/">
