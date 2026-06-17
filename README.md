@@ -19,10 +19,6 @@
     </a>
   </div>
 
-  📍 **Cairo, Egypt** | 📧 **mohammed.ashraf.zwam@gmail.com** | 📱 **+20 1115793826**
-
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=Mohammed-Zwam&icon=0&color=00D9FF&style=flat-square)
-
 </div>
 
 ---
@@ -47,7 +43,7 @@ Proven track record of implementing complex features and mentoring junior develo
 
 ### 📌 Core Languages
 <div>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -87,6 +83,7 @@ Proven track record of implementing complex features and mentoring junior develo
 
 ### 🗄️ Databases & Data Storage
 <div>
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
@@ -96,6 +93,7 @@ Proven track record of implementing complex features and mentoring junior develo
 
 ### ☁️ Cloud & DevOps
 <div>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -138,12 +136,13 @@ Proven track record of implementing complex features and mentoring junior develo
 
 ## 🔝 Featured Projects
 
-### 🏢 **Borrowly — Library Management System**
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-
+### **Borrowly — Library Management System**
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+</div>
 **Personal Project** | [GitHub Repository](https://github.com/Mohammed-Zwam/Borrowly)
 
 - Built a comprehensive Library Management System using **Spring Boot** and **PostgreSQL** with feature-based N-Tier Architecture
@@ -154,12 +153,13 @@ Proven track record of implementing complex features and mentoring junior develo
 
 ---
 
-### 🍕 **Food Ordering System**
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=javafx&logoColor=white" alt="JavaFX" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Design%20Patterns-4CAF50?style=flat-square" alt="Design Patterns" />
-
+### **Food Ordering System**
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=flat-square&logo=javafx&logoColor=white" alt="JavaFX" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-4CAF50?style=flat-square" alt="Design Patterns" />
+</div>
 **Academic Project** | [GitHub](https://github.com/Mohammed-Zwam) | [Demo Video](#)
 
 - Designed multi-role system supporting **Customers**, **Restaurants**, and **Delivery Personnel**
@@ -171,11 +171,13 @@ Proven track record of implementing complex features and mentoring junior develo
 
 ---
 
-### 💳 **Qarty — Business Digital Card Generator**
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
+### **Qarty — Business Digital Card Generator**
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
+</div>
 
 **Personal Project** | [Live Demo](https://qarty-app.com) | [GitHub](https://github.com/Mohammed-Zwam/Qarty)
 
@@ -188,11 +190,13 @@ Proven track record of implementing complex features and mentoring junior develo
 
 ---
 
-### 🎨 **SEDUM Designs Portfolio**
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/SEO-009900?style=flat-square" alt="SEO" />
-<img src="https://img.shields.io/badge/Responsive-FF6B6B?style=flat-square" alt="Responsive Design" />
+### **SEDUM Designs Portfolio**
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/SEO-009900?style=flat-square" alt="SEO" />
+  <img src="https://img.shields.io/badge/Responsive-FF6B6B?style=flat-square" alt="Responsive Design" />
+</div>
 
 **Freelancing / Client Project** | [Live Website](https://sedum-designs.com) | [GitHub](https://github.com/Mohammed-Zwam/SEDUM)
 
@@ -201,14 +205,6 @@ Proven track record of implementing complex features and mentoring junior develo
 - Optimized **SEO** and page load speed to improve site visibility and user experience
 - Implemented **fully responsive design** ensuring cross-device compatibility
 - Deployed on **Vercel** with custom domain configuration and continuous deployment
-
----
-
-<div align="center">
-
-  [![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=Mohammed-Zwam&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Mohammed-Zwam)
-
-</div>
 
 ---
 
@@ -310,31 +306,7 @@ Proven track record of implementing complex features and mentoring junior develo
 
   ⭐ If you find my projects helpful, please give them a star! It motivates me to keep building better solutions.
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Mohammed-Zwam&icon=0&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/resources/light-mode-zephyr-graph.svg" alt="contribution-graph" />
-</div>
-
----
-
-<div align="center">
-  
-  ---
-  
-  <p>
-    <strong>Made with ❤️ by Mohammed Ashraf Sayed Zwam</strong>
-    <br>
-    📍 Cairo, Egypt | 🎓 Ain Shams University | 💻 Full-Stack Developer
-    <br>
-    <sub>Last Updated: January 2026 | Always open to collaboration & learning opportunities</sub>
-  </p>
-
-  ![GitHub followers](https://img.shields.io/github/followers/Mohammed-Zwam?style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/Mohammed-Zwam?style=social)
-
-</div>
