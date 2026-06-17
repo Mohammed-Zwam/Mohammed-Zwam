@@ -143,6 +143,7 @@ Proven track record of implementing complex features and mentoring junior develo
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
 </div>
+
 **Personal Project** | [GitHub Repository](https://github.com/Mohammed-Zwam/Borrowly)
 
 - Built a comprehensive Library Management System using **Spring Boot** and **PostgreSQL** with feature-based N-Tier Architecture
@@ -160,6 +161,7 @@ Proven track record of implementing complex features and mentoring junior develo
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Design%20Patterns-4CAF50?style=flat-square" alt="Design Patterns" />
 </div>
+
 **Academic Project** | [GitHub](https://github.com/Mohammed-Zwam) | [Demo Video](#)
 
 - Designed multi-role system supporting **Customers**, **Restaurants**, and **Delivery Personnel**
