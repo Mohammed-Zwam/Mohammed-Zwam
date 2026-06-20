@@ -144,7 +144,7 @@ Proven track record of implementing complex features and mentoring junior develo
   <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
 </div>
 
-**Personal Project** | [GitHub Repository](https://github.com/Mohammed-Zwam/Borrowly)
+**Personal Project** | [GitHub Repository](https://github.com/Mohammed-Zwam/Borrowly-LMS)
 
 - Built a comprehensive Library Management System using **Spring Boot** and **PostgreSQL** with feature-based N-Tier Architecture
 - Implemented **automated penalty system** for overdue books with state tracking and **partial payment support**
