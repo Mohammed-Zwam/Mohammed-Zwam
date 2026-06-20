@@ -162,7 +162,7 @@ Proven track record of implementing complex features and mentoring junior develo
   <img src="https://img.shields.io/badge/Design%20Patterns-4CAF50?style=flat-square" alt="Design Patterns" />
 </div>
 
-**Academic Project** | [GitHub](https://github.com/Mohammed-Zwam) | [Demo Video](#)
+**Academic Project** | [GitHub](https://github.com/Mohammed-Zwam/Food-Ordering-System) | [Demo Video](https://drive.google.com/file/d/1dtM4RGloMaTy0qhR7l0zP6pMNuqTpcAB/view)
 
 - Designed multi-role system supporting **Customers**, **Restaurants**, and **Delivery Personnel**
 - Implemented **9 Design Patterns** (Factory, Strategy, State, Proxy, Singleton, Adapter, Flyweight)
@@ -181,7 +181,7 @@ Proven track record of implementing complex features and mentoring junior develo
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
 </div>
 
-**Personal Project** | [Live Demo](https://qarty-app.com) | [GitHub](https://github.com/Mohammed-Zwam/Qarty)
+**Personal Project** | [Live Demo](https://qarty.vercel.app/) | [GitHub](https://github.com/Mohammed-Zwam/Qarty-Business-Digital-Card-Generator)
 
 - Built full-stack **MERN application** for creating and sharing digital business cards via unique links & QR codes
 - Implemented **JWT access & refresh tokens** with Google OAuth via Firebase authentication
@@ -200,7 +200,7 @@ Proven track record of implementing complex features and mentoring junior develo
   <img src="https://img.shields.io/badge/Responsive-FF6B6B?style=flat-square" alt="Responsive Design" />
 </div>
 
-**Freelancing / Client Project** | [Live Website](https://sedum-designs.com) | [GitHub](https://github.com/Mohammed-Zwam/SEDUM)
+**Freelancing / Client Project** | [Live Website](https://sedum-eg.com/) | [GitHub](https://github.com/Mohammed-Zwam/SEDUM)
 
 - Developed client portfolio using **Next.js** with interactive **Framer Motion animations**
 - Integrated **Resend API** for automated contact form submissions with full validation
